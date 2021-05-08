@@ -16,7 +16,7 @@ Hi, I'm a boy who has a great interest in learning about technology, you can see
 - [Twitter](https://twitter.com/nspooky_)
 - [Facebook](https://www.facebook.com/nspooky)
 - [Linkedin](https://www.linkedin.com/in/nspooky/)
-- [Email me](mailto:nspooky@outlook.com)
+- [Email me](mailto:gabrielvillegas.dev@gmail.com)
 
 
 
