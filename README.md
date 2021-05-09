@@ -1,7 +1,7 @@
 # Gabriel Villegas - g@vill
 ### Hello there 👋
 ---
-Hi, I'm a boy who has a great interest in learning about technology, you can see my portfolio in programming [@here](https://nspooky.github.io/gvill/).
+Hi, I'm a boy who has a great interest in learning about technology, you can see my portfolio in programming [@here](https://g4vill.github.io/myPortfolio/).
 ---
 - I am currently a student at [@PathwayConnect](https://www.byupathway.org/pathwayconnect)
 - I am currently a student at [@Platzi](https://www.platzi.com/@nspooky)
@@ -13,9 +13,9 @@ Hi, I'm a boy who has a great interest in learning about technology, you can see
 
 **Contact me**
 
-- [Twitter](https://twitter.com/nspooky_)
+- [Twitter](https://twitter.com/g4vill)
 - [Facebook](https://www.facebook.com/nspooky)
-- [Linkedin](https://www.linkedin.com/in/nspooky/)
+- [Linkedin](https://www.linkedin.com/in/g4vill/)
 - [Email me](mailto:gabrielvillegas.dev@gmail.com)
 
 
