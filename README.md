@@ -1,4 +1,4 @@
-# Gabriel Villegas - g@vill
+# Gabriel Villegas - g@vil
 ### Hello there 👋
 ---
 Hi, I'm a boy who has a great interest in learning about technology, you can see my portfolio in programming [@here](https://g4vill.github.io/myPortfolio/).
